@@ -1,2 +1,5 @@
-# tjg_backend
-더좋은 프로젝트 백엔드
+# tjg_candy_project
+윤효진
+윤정렬
+이승수
+최재영
